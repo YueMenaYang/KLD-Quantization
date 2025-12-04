@@ -1,0 +1,5 @@
+llmcompressor==0.8.1
+torch==2.8.0
+transformers==4.56.2
+datasets==4.0.0
+numpy==2.0.2
