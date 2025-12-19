@@ -52,11 +52,13 @@ Our approach does not retrain weights. Instead, it employs a sensitivity profili
 
 ### A. Requirements
 
-Install dependencies:
+Install dependencies for local runs:
 ```bash
 pip install -r requirements.txt
 ```
 *Note: Key dependencies include `llmcompressor`, `torch`, `transformers`, and `datasets`.*
+
+Colab dependencies are on notebooks
 
 ---
 
